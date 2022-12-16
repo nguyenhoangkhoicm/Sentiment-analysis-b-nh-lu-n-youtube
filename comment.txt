@@ -1,0 +1,158 @@
+An interesting thing to point out, O(N^2) is not optimal for checking the longest palindromic sequence, there is an algorithm called Manacher's which finds all palindromic substrings in O(N). So ChatGPT wrote out the most popular 'good and optimal' solution, rather than the actual best.
+It being really good at solving algorithmic problems is not surprising at all given all the solutions exist on the internet.
+I‘ve seen similar videos like this and tried many options myself and it‘s all the time the same.
+
+General algorithmical problems with limited scope (because in comparison to a real-world project all these algorithms have a very tiny scope) like the ones in this video? Yes, fantastic!
+Incredible and scary. Though it is expected to do well in questions and solutions available on the internet, the fact it is able to understand and give different clear solutions at that quality is mind blowing.
+You should do this again but with variations to the questions. I've heard that GPT struggles more when it has to extrapolate concepts to unseen questions (i.e. a question which might have no solutions available online).
+Very impressive, and developers that learn how to properly leverage tools like ChatGPT and GitHub copilot are going to move faster than those who do not. But in the case of this particular AI I would hesitate to say that "it figured it out".
+These problems are relatively well known. I expect there are many many examples in the training data for it to draw from. These models tend not to spit out training data verbatim because it recombines it all statistically (very loosely speaking).
+I was pretty mind blown. I was also really happy to see how interviewers score potential candidates.
+I think the main reason why it passed the interview so well is because the prompts correspond exactly to the problem you wanted it to resolve. I am totally mind blown it can do that so well and so effortlessly but in real life, what we might consider as problem prompts are usually a bit messier and not that abstract and it would take a fair amount of effort to get to the point where they are as polished as an algoexpert prompt. Failing to provide that level of clarity and completeness might result in a seemingly correct solution that is wrong in the most subtle ways imaginable.
+I love ChatGPT. I work as an embedded software engineer. I am not afraid of it at all. In fact, I am excited to use it to complement my work. I have been using it to some extent this week even.
+This is such an interesting video. I actually tested chatGPT for the leetcode question for my Google internship. The code solution blew my mind, but in some cases, it didn't pass the test cases and I had to change 1-2 code lines. GitHub Copilot was also impressive, but I found clarity issues with it. But both AI tools really helped me a lot in preparation and practice. These tools are going to disrupt the software developers' lives because they are adding value to mine.
+This is really amazing!! I am totally astounded as I had to work for years to reach this efficiency level in C++. I can see the demand for proficient programmers would reduce drastically. I can see job implications as fewer programmers are required and possibly very complex pieces of software will be written in no time. We'd see millions of lines of code becoming a norm.
+I like the idea of thinking of ChatGPT-like tools as a search engine and as a compressor of information. It creates a database of the internet and lets you search it, with nice and useful presentation of results.
+I think Clément made a rather wrong conclusion about GPT from this test. ChatGPT is not a great coding problem solver, but it is a very good tool for eliminating well known interview problems. I have a lesser known problem, also one where I don't specify input - allowing the interviewee to design the API. The ChatGPT got very confused - it likely mixed some different solutions (that use different APIs) and wrote some code that uses one representation, and some that uses another. The problem is - they don't make any sense together. It also missed important parts of the problem.
+Imagine that: what if the network errors were intentional (maybe the AI learned how to trigger them), so that it could give you multiple solutions and impress you even more. :D
+I did an interview at google before and if there is one thing that I remember well is the fact that the interview problems had missing information (or unclear information) that pushed me to ask questions. The one thing besides solving them was asking the right questions to clarify the ambiguities in order to get it right. I'm not sure why you gave it a 4 in that part since the problem was pretty clear and there are no questions involved (also a probably overused problem since It is a well known google interview problem according to what you said). Don't get me wrong, the GPT is probably one of the coolest things I have ever seen, but, besides being super cool search engine with some aggregation power in it, I do not see it doing anything else then being a productivity increaser (a super stackoverflow). I really want you to do an interview with easier but more uncommon problems and make it ask the questions to see if he handles them right and produce code based on the answers.
+This is both amazing and scary at the same time.
+As an active user of co pilot,
+I'm not surprised at all, I mean it's true that the technology is amazing and has a lot of potential but it is trained by using millions of peoples data without their active consent.
+I feel like we're gonna get to the point where people will get hired for certain jobs based on how good they are at writing prompts for AI...
+Congrats ChatGPT for landing a job at Google! 
+This is not really unexpected that algorithmic are solved to perfection since there are so many sources of solutions out there and its dataset/knowledge is based on that.
+Clem…Ask it if PHP is a good language…  (it has a very positive outlook on all things) and then for all those who hate any language, get the AI to solve whatever problem you have in said language and you’ll see that it may not be optimal but very few languages are “bad”
+tbh, props to the people who made chatGPT. they are the smart ones. idk why they did this but I think it is to help engineers.
+Some questions have a long story to it and are really complex , mostly you can find them codeforces and some are also there on leetcode and there chatgpt was struggling
+Fun fact: You are thinking of preparing for your coding interview using ChatGPT
+So, what is the consequences to interviewing (from a hiring perspective, as well as from an engineer perspective) because of Davinci 3.5 ChatGPT?
+ChatGPT has to be a human being with the world's knowledge
+I personally think the next wave of layoffs will be because of ChatGPT doing the Software Developers' jobs.
+So a public demo version of ChatGPT easily passes a google coding interview and people are still saying that there is nothing to worry about lol.
+I think it would not replace devs rather help them and make it easier for them to develop apps, webs, etc.
+In my next interview, I'll use the network error strategy!
+I am truly shocked at its capabilities
+ChatGPT does ask clarifying questions when the question is not clear. I've tried it a few times
+I've had the same problem with chatGPT while it's writing a response. I think it has to do the length of it's response, I only got that error when it wrote a really lengthy answer. I searched around a bit and apparently, you can ask it to give you n lines of it's response and then ask for more.
+Recently NeetCode posted a video on YouTube where ChatGPT got it wrong. Well, we know it's not perfect but that's amazing, I have tried it and was blown away. It will only get better over time
+I made a question up off the top of my head and ChatGPT nailed it. (Probably an easy question for you pros out there)
+
+Question: You are interviewing for a python engineer position,
+As soon as they can create instruments that will allow this model to work on a new version of this model without human feedback, it's time for all of us to change professions. Our best chance is to become a managers who would describe the tasks to AI to get optimal solutions. But even that would not last long.
+Hey, I'd like some input here from a programmer. I started to slef-study web dev a couple of month (I'm brand new otherwise to coding). My main goal was to create a personal project, and I can definitely see how ChatGPT will help. That said, as a secondary goal, I was hoping that throughout this process I could eventually gain the skills required to land some entry level job down the road and move up from there, or even do some freelancing for smaller/simpler projects. It seems to me that ChatGPT poses a problem. It can certainly replace novice guys and gals like me who are self-taught. Am I right to assume that this tech might render the 'self-taught' or even the 'bootcamp' candidates useless? My fear is that if the low-end coding work can be done by AI, the actual programmer that is supervising it will always be senior level, or at least have a solid academic background in CS.  So what are your thoughts about coding noobs who are currently following a non-academic path? Did we miss the train?
+Just think about the Google AI lambda…. I can only imagine what it is capable of doing!!! Can you make a video on what path incoming developers should take in order to be at the forefront of these innovations!!!
+I tried to get it to teach me how to code but it didn't go as I hoped. If people could have access to an AI teacher, that would be amazing.
+For some who is "speechless" you certainly have a lot to say.
+I tested it, and it couldn’t optimize properly.  It continuously, despite being advised it had possible optimizations, couldn’t spot what to do.  Essentially it was terrible at collecting like terms, storing calculations, and deciding when to do a calculation.  But I wouldn’t expect any better, as it’s only based on what’s available online, and most coders suck ass at this; especially the ones trying to get attention online so someone reads their article.  Plus most people just want to get it done, and, although there is merit to that, when it comes to serving code for millions of users to consume, slow algorithms eat up resources really fast.
+The network errors drive everyone crazy.... if the script you are asking for goes bigger after a certain amount of tokens... this is very frustrating... specially the fact that when the error appears, all the information is lost...
+I wish my brain could work like ChatGPT in coding interview for algorithms))
+The answer to what's asked towards the end when he wonders if it was posting solutions it already knew somehow is going to depend on how you define "know," because I suspect it's likely using a lot of existing data, then maybe crawling over it to create its responses, and if that data is coming from a live internet connection would you still consider it something "known?"  Even if so though, fundamentally this "knowledge" would depend on whatever algorithm is going on behind-the-scenes that synthesizes an answer from it, even if it wasn't using a live internet connection to obtain the data in real-time.  It's going to be really interesting when we see how these interact with each other though IMO i.e. can multiples of them working together to solve problems help the overall performance?
+this was fun to watch. thanks for doing this video
+Just try asking questions which are not on internet or from a hiring challenge. I did it during leetcode weekly contest , I gave the third question but the answer it gave was not even near to the actual solution
+Funny, at 5:37 on the second implementation of the palindrome algorithm, it kinda looks like the explanation with the (left, right) pointers.
+Network error happens when responses are too long and for some reason it will timeout. To fix this ask it to: Add numbers to lines and when you reach line number N you must end your response, tell me how many lines are left and prompt me to continue. Or something like: Tell me the first N words then end your response and prompt me to continue.
+Seems the biggest criticism of algorithm based interviews is beginning to materialize
+chatGPT has proof for why every number greater than 6 is odd
+FAANG companies and the like should consider hiring ChatGPT to build their products since it can ace their interview questions effortlessly.
+everyone gangsta til you realize u r a CS major and there's no way you'd have solved that question optimally or even ever get hired at Google :')
+This guy is a Diva. He changes his hair color more than his shirt.
+Well, it's a good thing my project manager hardly knows what the client needs in any meaningful detail.
+ChatGPT just started It's journey.
+I wonder what it will be able to do after getting more updates.
+Ok, BUT:  the answers to those kind of interview questions were already there - some for years, some for decades. The bit that it can actually spit out a working algorithm is not the impressive part because you'll likely find almose exact answers on stackoverflow.  What is truly impressive is that it parses questions in plain English (or many other) and connects it to good answers. It's like google 2.0. In an interview situation no one actually wants you to write code but for you to show that you understand the code (by writing it, if that makes sense).
+Well this is an interesting concept. I wanna see the roles reversed too 
+This shows us, once again, how not representative are interview questions that companies are using.
+ChatGPT is really good trained to solve such tasks perfectly, but fails to give right answer on questions any average schoolchild can answer, even if ChatGPT answers correctly on each part of the same question separately.
+just curious to see that if you try a completely new hard question that is never on internet before would it be able to solve that as well?
+Plot twist: AlgoExpert is part of ChatGPT's training data :)
+Well in real life problems chatgpt struggle to give right answers and sometimes answers is quite confusing. Maybe that’s the reason why stack overflow ban chatgpt answers.
+Also try to give problems what u face in daily routine using less popular languages like rust kotlin  to challenge chatgpt with framework/libraries questions rxjava coroutines jetpack compose 
+Is it worth to start learning coding? (JS, HTML, CSS and Python)
+How you become a Junior developer when there is chatgbt... 
+Chatgbt could replace a junior right now and its just the start and it will improve.
+Have you compared this with copilot?
+It fails on novel algo problems.
+They tried it on codeforces and it just spits out random code that sometimes doesn’t even compile.
+Basically it is a form of google/stackoverflow at the moment.
+Time for Chat GPT to replace third party coding interviews
+I don't want Chat GPT or any AI to take any potential Software Engineering or Security Engineering jobs in the future. I don't want to start my career only for it to be automated within 6 months. It's just not fair.
+ChatGPT won’t work for targeted embedded platforms nor specific clouds with constraints. What about neural nets, object detection using company specific libraries? This is still far from programmers losing jobs.
+AI is taking over our life .
+You should've asked it to clarify decisions on specific lines (for example "can you conceptually explain how the while loop works" could throw it for a spin... I think it's just regurgitating canned material from it's database which isn't that impressive.
+If anything, this shows that these algorithm-based interviews have very little to do with real life software development skills.
+FAANG companies are in trouble. They will not provide online or virtual assessments again. What do you think about the future of coding interviews?
+Nice Video! 
+Hmm... Seems ChatGPT learnt from AlgoExpert 
+Saw the ring! Congratulations man! wish you the best :)
+Next video must be what chat gpt cannot do.
+ChatGPT is at capacity right now.    You just killed that website with the video :D
+This video is INEVITABLE!
+I think we’re watching history 
+how is this AI made only with nested Ifs and elses?
+pls do more interviews
+Create a medium level programming problem that doesn't exist in the internet and test it.
+Haha bro I was literally messing with having chatgpt solve lc hards 2 days ago
+always compy the code fast and then you can re input it
+It’s trained pal. A human programmer well trained can do the same. After all it’s a computer!
+Mind blowing, it exactly solving the question like actual Google interviewer specially when it stucks it just slow down or disconnected the internet connection
+But also, it's funny to see people say 'it just knew this already'. To that I ask - how much of what you know is actually original and inventive thought? Even your creative solutions, aren't they just a distortion and amalgamtion of things you already know?
+People always don't get it. ChatGPT is roughly 800GB in size (Just the model, insane). But a model is in the end nothing more than a database, a compressed one that yields wrong results because it's lossy. But, it is not creative. It can't create new knowledge. Really, ChatGPT is a great Data indexing system, nothing more.
+Damn bro, this will slash developer jobs soon
+Excited to see the disruptions made by ChatGPT!
+So are we done with Google interview style questions since they're now arbitrary?
+This is the singularity. Human intellect is now irrelevant. If you have any understanding of how this system works, you'd understand that future iterations are going to be able to run on entire disassembled software systems designing entire programs from a simple specification of requirements. This is going to apply to every area of human intellect. The generalized nature of this system will allow it to draw inferences from all human domains of knowledge (these connections are usually interpreted as creative intelligence). I guess we all better buckle up for what is to come. I'd say we have 10 years top till full automation of intellectual processes. The robotics still has a way to go till it catches up but the writing is now on the wall. It understands abstractions so well that I am absolutely astonished.
+THE KEY PROBLEM OF WE HUMAN BEINGS IS LACK OF INTENTION AND ATTENTION AND POVERTY OF IMMAGINATION,  LOGIC CAN TAKE YOU TO A-B BUT IMMAGINATION IS INFINITIES CHRIST BEING CONSCIOUSNESS, WHICH IS THE MASTER KEY FOR CREATION. QUOTES AKUNNE       
+It’s really a nice application.
+Man, screw this. I'm going to Mars so I can be the first person to invent gravity over there 
+I’m scared of losing my job to chatGBT
+I'm a computer science student and I am scared for my life.
+When it fails you can just say "continue that"
+Imagine if chatgpt was just a call center 
+Is there any way your chatthing can think by its own and write code p'or design web pages
+Did you try to ask some questions which not able online?
+Now ask ChatGTP to interview you and evaluate your work.
+ChatGPT shows different answers because it uses its people on background to find answers and copy-paste it on their site. /s
+It's scary.  I'm scared that my job will be replaced by AI...  EEEEEK!!!
+AI taking jobs of freshers
+Waiting for ChatGPT to start roasting people and posting it's TC on blind
+Chatgpt is going to replace developer just like how wordpress took jobs of all web developers.
+great idea
+it's fun to see your reaction, hahahaha
+This only points how the future will go. After the Web boom, there will be an AI boom. Funny how it is, a job interview for a web company that got that difficult is now beaten by AI. Guess what will happen next? People will stop doing web, will go to do AI algorithms.
+Do you think robots will take programmers' jobs?
+please create your own questions. or ask latest competitive programming questions.
+Thanks for the vid Uncle Scrooge
+jeez, should we be worried that we might lose our job???
+Are you sure that these much easy questions asked in Google interviews?
+He is comming for us
+Welp I'll just become a farmer then
+Is this gonna kill junior dev jobs?  Should I stop studying and look to something else?
+RIP Algoexpert
+Okay Clem, Now I am afraid now!
+wow!
+This is crazy
+AS A MAN THINKETH IN HIS OWN HEART SO HE IS. QUOTES AKUNNE       
+We're all screwed.
+I think this is really bad for software engineers. I'm not bluffing...I'm concerned!
+i feel useless. This is depressing
+WHAT'S EVER MY-MIND CAN CONSIEVED AND BELIEVED, MY-MIND MUST EVER ACHIEVED IT. QUOTES AKUNNE       ..
+Rip soft engineers
+
+do you think our job is in danger
+Bye Bye coding jobs!
+GGs, time to cancel my algoexpert subscription, thanks to ChatGPT hahaha.
+Why is this so suprising? It gave answere that youcan literally find on the internet in 2 mins and copy paste it. It will do good as long as that problem was fed into it and already seen it.
+actually scary
+I am going to do farming.
+You will be jobless buddy
+ChadGPT
+ - FIND YOUR LOVE IN YOU CITY! q
+I don't understand why you are so excited. They just trained AI solve leetcode by tons of questions - solutions. Only hope it will help to read of useless  leetcode polishing before interview.
+what ?
+Yoo Thats fked up
+first viewer
+First
+It’s a glorified google search. Good for solving already solved problems.
+I AM NOW WITH MY REALITY RESULTS AS ALREADY 25TH OCTOBER SUPERENALOTTO MULTIPLE JACKPOTS WINNER,  5-IDENTICLE REALITY RESULTS TICKETS,  I - TICKET IS -I NUMBER. QUOTES AKUNNE       
+I AM NOW SO MUCH MORE HAPPY AND GRATEFUL THAT NOW I AM NOW FINALLY WHOM I AM AS ALREADY 25TH OCTOBER SUPERENALOTTO MULTIPLE JACKPOTS WINNER IN ITALIA. QUOTES AKUNNE       
